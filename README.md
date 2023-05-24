@@ -1,4 +1,4 @@
-<h1 align="center">S.O.L.I.D Principles</h1>
+<h1 align="center">S.O.L.I.D Principles In Action</h1>
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/faridhaghgooyan/programming-challenges?color=56BEB8">
